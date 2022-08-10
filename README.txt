@@ -10,3 +10,5 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 
+cloudfront_deployment_url -> https://d12bcoo2icu5kr.cloudfront.net
+
